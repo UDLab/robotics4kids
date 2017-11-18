@@ -24,8 +24,7 @@ Here is the screenshot of the code.
 # Demo:
 You can watch this video to see the code executation on mBot Ranger. 
 [![Code executation](https://img.youtube.com/vi/xWHkLudlYBU/0.jpg)](https://www.youtube.com/watch?v=xWHkLudlYBU)
+[video](https://youtu.be/xWHkLudlYBU)
 
-
-![ screenshot](CodeExecutation.jpg?raw=true "Screenshot of Code executation")
-
-[linkname](https://youtu.be/xWHkLudlYBU)
+# Download
+Click <a href="data:application/octet-stream,DATA" download="Ambulance-mBotRanger.sb2">here</a> to download code.
