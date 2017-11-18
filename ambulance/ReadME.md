@@ -22,5 +22,6 @@ You can watch this video to see the code executation on mBot Ranger.
 
 # Scrrenshot
 Here is the screenshot of code 
+![Code screenshot](/codescreenshot.png?raw=true "Screenshot of Code")
 
 Here is screenshot of code executing on mBot.
