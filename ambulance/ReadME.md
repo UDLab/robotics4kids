@@ -16,12 +16,16 @@ mBlock 3.4.5
 # Hardware
 mBot Ranger
 
-# Demo:
-You can watch this video to see the code executation on mBot Ranger. 
+# Screenshot
+Here is the screenshot of the code. 
 
-
-# Scrrenshot
-Here is the screenshot of code 
 ![Code screenshot](CodeScreenShot.png?raw=true "Screenshot of Code")
 
-Here is screenshot of code executing on mBot.
+# Demo:
+You can watch this video to see the code executation on mBot Ranger. 
+[![Code executation](https://img.youtube.com/vi/xWHkLudlYBU/0.jpg)](https://www.youtube.com/watch?v=xWHkLudlYBU)
+
+
+![ screenshot](CodeExecutation.jpg?raw=true "Screenshot of Code executation")
+
+[linkname](https://youtu.be/xWHkLudlYBU)
