@@ -22,6 +22,6 @@ You can watch this video to see the code executation on mBot Ranger.
 
 # Scrrenshot
 Here is the screenshot of code 
-![Code screenshot](/robotics4kids/ambulance/CodeScreenShot.png?raw=true "Screenshot of Code")
+![Code screenshot](CodeScreenShot.png?raw=true "Screenshot of Code")
 
 Here is screenshot of code executing on mBot.
